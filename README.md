@@ -27,4 +27,10 @@ IAM User and Role Access to Billing Information → Edit → Check box "Activate
 \
 **For an Overview of all Costs on the Account:** \
 Account dropdown → My Billing Dashboard \
-Cost Management → **Cost Explorer** → Launch Cost Explorer\
+Cost Management → **Cost Explorer** → Launch Cost Explorer
+
+\
+For best practices, explicitly fill out the \
+**Billing, Operations & Security Alternate Contact Information:** \
+Account dropdown → My Account \
+Alternate Contacts → Edit → fill in all fields
