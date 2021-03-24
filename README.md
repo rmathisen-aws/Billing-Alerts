@@ -10,6 +10,8 @@ CloudWatch → Alarms → Create Alarm \
 Select Metric → Billing → Total Estimated Charge
 
 ![image](https://user-images.githubusercontent.com/80132085/112333665-2e4ee100-8c91-11eb-9afd-4e03752d9562.png)
+![image](https://user-images.githubusercontent.com/80132085/112333760-40308400-8c91-11eb-8dfb-febcb12ee279.png)
+
 
 
 
