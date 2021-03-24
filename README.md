@@ -16,8 +16,8 @@ Notice your alarm's "Action" status shows "Pending Confirmation" \
 Read the email that was just sent to you & confirm subscription \
 Refresh the alarm \
 State will change from "Insufficient Data" to "OK"
-
-
+\
+\
 
 **For an Overview of all Costs on the Account:** \
 Account dropdown → My Billing Dashboard \
