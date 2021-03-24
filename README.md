@@ -19,6 +19,12 @@ Refresh the alarm \
 State will change from "Insufficient Data" to "OK"
 
 \
+By default, only the Account Root User can access the Billing area on the AWS Console. \
+**To allow IAM Users to access the billing area:**
+Account dropdown → My Account \
+IAM User and Role Access to Billing Information → Edit → Check box "Activate IAM Access" → Update
+
+\
 **For an Overview of all Costs on the Account:** \
 Account dropdown → My Billing Dashboard \
 Cost Management → **Cost Explorer** → Launch Cost Explorer\
