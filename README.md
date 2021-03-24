@@ -5,6 +5,7 @@ Preferences → Billing Preferences \
 Check (3) boxes for..."Receive PDF Invoice by Email"..."Recieve Free Tier Usage Alerts" (fill in your email address)..."Receive Billing Alerts" \
 Save Preferences
 
+\
 **Configure the Billing Alert:** \
 CloudWatch → Alarms → Create Alarm \
 Select Metric → Billing → Total Estimated Charge → Check USD → Select Metric (blue button) \
