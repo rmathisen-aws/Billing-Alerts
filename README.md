@@ -18,12 +18,17 @@ Save Preferences
 CloudWatch → Alarms → Create Alarm
 
 \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112926710-d6c1d280-90e1-11eb-8884-94cdc10c6b6d.png" width="310.5" height="183"> \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112926781-f48f3780-90e1-11eb-8ab6-7174f23a1a56.png" width="374.25" height="198"> \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112926829-040e8080-90e2-11eb-9049-fe5afb94f2cc.png" width="617.25" height="144"> \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112926917-21dbe580-90e2-11eb-8ec3-3286c125af19.png" width="198.75" height="144"> \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112926939-2a342080-90e2-11eb-9250-075c335560b2.png" width="220.5" height="79.5"> \
-Select Metric → Billing → Total Estimated Charge → Check USD → Select Metric \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112926710-d6c1d280-90e1-11eb-8884-94cdc10c6b6d.png" width="310.5" height="183">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112926781-f48f3780-90e1-11eb-8ab6-7174f23a1a56.png" width="374.25" height="198">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112926829-040e8080-90e2-11eb-9049-fe5afb94f2cc.png" width="617.25" height="144">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112926917-21dbe580-90e2-11eb-8ec3-3286c125af19.png" width="198.75" height="144">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112926939-2a342080-90e2-11eb-9250-075c335560b2.png" width="220.5" height="79.5">\
+Select Metric → Billing → Total Estimated Charge → Check USD → Select Metric
+
 Conditions: Static...Greater...$XX.XX USD \
 Alarm State Trigger: In Alarm......SNS: Create New Topic...Name: BillingAlert...Email: enter your email address \
 Alarm Name: BillingAlert \
