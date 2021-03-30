@@ -32,7 +32,7 @@ Select Metric → Billing → Total Estimated Charge → Check USD → Select Me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112927779-88adce80-90e3-11eb-9ede-88e53688cb7a.png" width="576" height="393.75"> \
 Conditions: Static...Greater...$XX.XX USD
 
-![image](https://user-images.githubusercontent.com/80132085/112928168-22757b80-90e4-11eb-8bf1-9af8b556a2e7.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112928168-22757b80-90e4-11eb-8bf1-9af8b556a2e7.png" width="565.5" height="317.25"> \
 Previous → look at the Graph \
 Notice the Red $10 USD limit line in comparison to the costs up to this point
 
