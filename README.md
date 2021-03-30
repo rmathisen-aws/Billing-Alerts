@@ -6,7 +6,7 @@ Account dropdown → My Billing Dashboard
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://user-images.githubusercontent.com/80132085/112925436-dc1e1d80-90df-11eb-8134-fb78827bba5a.png) \
 Preferences → Billing Preferences
 
-![image](https://user-images.githubusercontent.com/80132085/112925731-5058c100-90e0-11eb-8af1-1e319429b1c1.png) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112925731-5058c100-90e0-11eb-8af1-1e319429b1c1.png" width="873.75" height="321"> \
 Check (3) boxes for..."Receive PDF Invoice by Email"..."Recieve Free Tier Usage Alerts" (fill in your email address)..."Receive Billing Alerts" \
 Save Preferences
 
