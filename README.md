@@ -12,7 +12,7 @@ Save Preferences
 
 \
 \
-## Configure the Billing Alert:
+### Configure the Billing Alert:
 
 ![image](https://user-images.githubusercontent.com/80132085/112926232-2522a180-90e1-11eb-9d57-1b232526ed1d.png) \
 CloudWatch → Alarms → Create Alarm
