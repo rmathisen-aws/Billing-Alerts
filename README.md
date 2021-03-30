@@ -29,7 +29,7 @@ CloudWatch → Alarms → Create Alarm
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112926939-2a342080-90e2-11eb-9250-075c335560b2.png" width="220.5" height="79.5">\
 Select Metric → Billing → Total Estimated Charge → Check USD → Select Metric
 
-![image](https://user-images.githubusercontent.com/80132085/112927779-88adce80-90e3-11eb-9ede-88e53688cb7a.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112927779-88adce80-90e3-11eb-9ede-88e53688cb7a.png" width="576" height="393.75"> \
 Conditions: Static...Greater...$XX.XX USD \
 Alarm State Trigger: In Alarm......SNS: Create New Topic...Name: BillingAlert...Email: enter your email address \
 Alarm Name: BillingAlert \
