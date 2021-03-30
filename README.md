@@ -1,10 +1,10 @@
 # Billing Alerts using CloudWatch and SNS
 
 ### Introduction:
+Controlling costs within AWS is important if you want to avoid any bill-shock at the end of the month.
 
 ### Summary:
-
-### Tasks:
+In this demo, we'll create a billing alarm which will notify you in the event that your estimated monthly costs exceed an agreed amount.
 
 \
 \
