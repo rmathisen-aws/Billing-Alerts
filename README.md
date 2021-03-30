@@ -17,11 +17,11 @@ Save Preferences
 ![image](https://user-images.githubusercontent.com/80132085/112926232-2522a180-90e1-11eb-9d57-1b232526ed1d.png) \
 CloudWatch → Alarms → Create Alarm
 
-![image](https://user-images.githubusercontent.com/80132085/112926710-d6c1d280-90e1-11eb-8884-94cdc10c6b6d.png)
-![image](https://user-images.githubusercontent.com/80132085/112926781-f48f3780-90e1-11eb-8ab6-7174f23a1a56.png)
-![image](https://user-images.githubusercontent.com/80132085/112926829-040e8080-90e2-11eb-9049-fe5afb94f2cc.png)
-![image](https://user-images.githubusercontent.com/80132085/112926917-21dbe580-90e2-11eb-8ec3-3286c125af19.png)
-![image](https://user-images.githubusercontent.com/80132085/112926939-2a342080-90e2-11eb-9250-075c335560b2.png)
+![image](https://user-images.githubusercontent.com/80132085/112926710-d6c1d280-90e1-11eb-8884-94cdc10c6b6d.png) \
+![image](https://user-images.githubusercontent.com/80132085/112926781-f48f3780-90e1-11eb-8ab6-7174f23a1a56.png) \
+![image](https://user-images.githubusercontent.com/80132085/112926829-040e8080-90e2-11eb-9049-fe5afb94f2cc.png) \
+![image](https://user-images.githubusercontent.com/80132085/112926917-21dbe580-90e2-11eb-8ec3-3286c125af19.png) \
+![image](https://user-images.githubusercontent.com/80132085/112926939-2a342080-90e2-11eb-9250-075c335560b2.png) \
 Select Metric → Billing → Total Estimated Charge → Check USD → Select Metric \
 Conditions: Static...Greater...$XX.XX USD \
 Alarm State Trigger: In Alarm......SNS: Create New Topic...Name: BillingAlert...Email: enter your email address \
