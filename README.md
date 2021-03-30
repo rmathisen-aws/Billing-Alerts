@@ -74,8 +74,10 @@ By default, only the Account Root User can access the Billing area on the AWS Co
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/113021684-d6612000-9151-11eb-809d-86d3da4e1854.png" width="317.25" height="231"> \
 Account dropdown → My Account
 
-\
+<br/>
+<br/>
 ![image](https://user-images.githubusercontent.com/80132085/113023789-04476400-9154-11eb-8a07-97fef4d49781.png) \
+<br/>
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/113023937-2e008b00-9154-11eb-8259-64d6a1be4a73.png" width="411.75" height="193.5"> \
 IAM User and Role Access to Billing Information → Edit → Check box "Activate IAM Access" → Update
