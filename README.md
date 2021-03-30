@@ -1,4 +1,7 @@
-# Billing-Alerts
+# Billing Alerts using CloudWatch and SNS
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112924969-0d4a1e00-90df-11eb-85ab-989ba5b7ff81.png" width="311" height="232.5"> \
+![image](https://user-images.githubusercontent.com/80132085/112925011-25ba3880-90df-11eb-8e94-96aea27d9095.png)
 
 Account dropdown → My Billing Dashboard \
 Preferences → Billing Preferences \
