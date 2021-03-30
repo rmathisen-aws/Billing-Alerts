@@ -1,5 +1,13 @@
 # Billing Alerts using CloudWatch and SNS
 
+### Introduction:
+
+### Summary:
+
+### Tasks:
+
+\
+\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112924969-0d4a1e00-90df-11eb-85ab-989ba5b7ff81.png" width="321" height="229.5"> \
 Account dropdown → My Billing Dashboard
 
