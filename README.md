@@ -45,7 +45,7 @@ Look at the Graph \
 Notice the Red $10 USD limit line in comparison to the costs up to this point \
 Next
 
-![image](https://user-images.githubusercontent.com/80132085/113015186-491acd00-914b-11eb-8f45-7282abfd444c.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/113015186-491acd00-914b-11eb-8f45-7282abfd444c.png" width="564.75" height="486.75"> \
 Alarm State Trigger: In Alarm \
 SNS: Create New Topic \
 Name: BillingAlert \
