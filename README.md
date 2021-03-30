@@ -41,10 +41,18 @@ Select Metric → Billing → Total Estimated Charge → Check USD → Select Me
 Conditions: Static...Greater...$XX.XX USD
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112928168-22757b80-90e4-11eb-8bf1-9af8b556a2e7.png" width="565.5" height="317.25"> \
-Previous → look at the Graph \
-Notice the Red $10 USD limit line in comparison to the costs up to this point
+Look at the Graph \
+Notice the Red $10 USD limit line in comparison to the costs up to this point \
+Next
 
-Alarm State Trigger: In Alarm......SNS: Create New Topic...Name: BillingAlert...Email: enter your email address \
+![image](https://user-images.githubusercontent.com/80132085/113015186-491acd00-914b-11eb-8f45-7282abfd444c.png)
+Alarm State Trigger: In Alarm \
+SNS: Create New Topic \
+Name: BillingAlert \
+Email: enter your email address \
+Create Topic \
+Next
+
 Alarm Name: BillingAlert \
 Create Alarm \
 Notice your alarm's "Action" status shows "Pending Confirmation" \
