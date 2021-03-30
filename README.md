@@ -56,9 +56,12 @@ Next
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/113016176-3c4aa900-914c-11eb-8280-72565e013b73.png" width="577.5" height="272.25"> \
 Alarm Name: BillingAlert \
 Next \
-Create Alarm \
+Create Alarm 
+
+![image](https://user-images.githubusercontent.com/80132085/113016582-a1060380-914c-11eb-878c-10d87554c7d3.png)
 Notice your alarm's "Action" status shows "Pending Confirmation" \
 Read the email that was just sent to you & confirm subscription \
+
 Refresh the alarm \
 State will change from "Insufficient Data" to "OK"
 
