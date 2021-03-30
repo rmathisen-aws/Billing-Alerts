@@ -68,7 +68,7 @@ State will change from "Insufficient Data" to "OK"
 \
 By default, only the Account Root User can access the Billing area on the AWS Console. \
 **To allow IAM Users to access the billing area:** \
-![image](https://user-images.githubusercontent.com/80132085/113021684-d6612000-9151-11eb-809d-86d3da4e1854.png) \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/113021684-d6612000-9151-11eb-809d-86d3da4e1854.png" width="317.25" height="231"> \
 Account dropdown → My Account \
 
 IAM User and Role Access to Billing Information → Edit → Check box "Activate IAM Access" → Update
