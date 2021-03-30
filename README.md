@@ -53,9 +53,7 @@ Email: enter your email address \
 Create Topic \
 Next
 
-![image](https://user-images.githubusercontent.com/80132085/113016237-4bc9f200-914c-11eb-9a20-d92483911486.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/113016176-3c4aa900-914c-11eb-8280-72565e013b73.png" width="565.5" height="317.25"> \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/113016176-3c4aa900-914c-11eb-8280-72565e013b73.png" width="577.5" height="272.25"> \
 Alarm Name: BillingAlert \
 Next \
 Create Alarm \
