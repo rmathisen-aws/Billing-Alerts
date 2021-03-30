@@ -66,6 +66,7 @@ Refresh the alarm \
 State will change from "Insufficient Data" to "OK"
 
 <br/>
+
 ### To allow IAM Users to Access the Billing Area:
 By default, only the Account Root User can access the Billing area on the AWS Console. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/113021684-d6612000-9151-11eb-809d-86d3da4e1854.png" width="317.25" height="231"> \
